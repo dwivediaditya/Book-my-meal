@@ -1,0 +1,2 @@
+# Book-my-meal
+The aim is to generate a mobile application, use to promote meal selling online. Apart from existing applications like Zomato, Swiggy or Uber Eats this application has complete focus on Students going for schools, colleges and for the Employees. The main objective of this project is to provide healthy foods in every city. The main objective of this project is to provide tasty and healthy food for the school students, colleges students, office employees and for the bachelors. 
